@@ -1,23 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+A Smart Accessibility Interface Inspired by Real-World Innovation (as highlighted by projects featured in The Times of India)
 
-# Run and deploy your AI Studio app
+This project is designed to empower differently-abled individuals by providing an intuitive interface to control home devices such as lights, fans, and appliances through simple touch buttons or gesture-based controls.
 
-This contains everything you need to run your app locally.
+Inspired by accessibility-focused innovations showcased in The Times of India, this prototype demonstrates how low-cost digital solutions can dramatically improve daily independence for users facing mobility challenges.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1I_S1xP9BQMi28HUx6DJugMMNxG4y5a6_
+✨ Overview
 
-## Run Locally
+People with limited mobility often depend on caregivers for simple tasks like switching on lights or controlling fans. This prototype offers a web-based assistive interface that simulates device control without requiring physical hardware.
 
-**Prerequisites:**  Node.js
+The solution focuses on:
 
+Accessibility — Simple UI usable by anyone
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-"# wemake" 
-"# wemake" 
-"# wemake" 
+Independence — Reduces reliance on others
+
+Affordability — Works without additional hardware
+
+Scalability — Future integration with IoT devices
+
+🎯 Problem Statement
+
+Differently-abled individuals often face difficulty performing routine tasks involving physical switches. Expensive smart-home systems are not feasible for many. There is a need for a simple, low-cost, and easy-to-use system that allows people to control household devices without physical effort.
+
+💡 Solution
+
+A web application that provides:
+
+Large, accessible control buttons
+
+Optional gesture-based triggers (simulated)
+
+Real-time feedback (“Light ON”, “Fan OFF”, etc.)
+
+Clean UI suitable for motor-impaired users
+
+Mock device API to simulate IoT control
+
+This prototype demonstrates how an inclusive digital control system could work in real life.
