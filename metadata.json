@@ -1,0 +1,7 @@
+{
+  "name": "AccessiHome",
+  "description": "An assistive control interface for smart devices featuring high-contrast UI, single-switch scanning modes, and AI-powered intent recognition for natural language commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
